@@ -1,5 +1,4 @@
-const { name, height, message } = require("../index.js");
-
+var index = require("../index.js")
 /*
 describe('what-is-a-test', () => {
   describe('Name', () => {
